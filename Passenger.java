@@ -7,6 +7,7 @@ public class Passenger
 	private ArrayList<String> alerts;
 	private ArrayList<Flight> flights;
 	private ArrayList<Flight> standbys;
+	private String Berkley;
 	
 	public Passenger(String first, String last)
 	{
